@@ -1,0 +1,3 @@
+jekhne 3d image ace sei folder giye install korte hobe
+yarn add gltfjsx
+npx gltfjsx file_name --transform
